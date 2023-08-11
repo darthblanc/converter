@@ -1,0 +1,11 @@
+The bar was the cement, and you brought a shovel -> input:
+I expected nothing, but I'm still disappointed -> input:
+You're about as sharp as a sack full of soup -> input:
+You're as quick as a glacier -> input:
+Keep me guessing, do not give me the right input (sarcasm) -> input:
+You're the reason we have warning labels -> input:
+You're just spare parts, aren't you, bud? -> input:
+Aww, bless your heart, but seriously..... -> input:
+I would agree with you, but then we would both be wrong... -> input:
+Bruh, Just type a number -> input:
+Lol, you have to be dense lmao.....number -> input:
