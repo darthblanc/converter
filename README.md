@@ -1,2 +1,2 @@
 # converter
-a suite of programs that may be useful in conversions.
+a suite of programs that are be useful in conversions.
